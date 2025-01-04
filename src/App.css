@@ -19,7 +19,11 @@
 }
 
 .counter{
-  padding: 0px 12px;
+  background-color: #646cffaa;
+  color: white;
+  padding:  10px 12px;
+  margin: 10px;
+  border-radius: 5px;
 }
 
 @keyframes logo-spin {
